@@ -1,0 +1,55 @@
+Dragon
+
+Modul:
+
+Theoretische Physik (Diplom)
+
+Jahr:
+
+2009
+
+Lehrveranstaltung1:
+
+Theo II
+
+Lehrveranstaltung2:
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Themen:
+
+Drehimpulskopplung, Harmonischer Oszillator, Zustandsreduktion, Entropie, Störungsrechnung
+
+Gestellte Fragen:
+
+Fragen die oben unter "Themen" stehen. Halt Formeln und Herleitungen aus seinem Skript.
+
+Standartfragen:
+
+Harmonischer Oszillator, Drehimpulsalgebra, Entropie
+
+Unerwartete Fragen:
+
+Was ist die Zeitentwicklung der Eigenwerte der Dichtematrix und was bedeutet das für die Entropie? Kennen Sie die Dirac-Gleichung? (ich: ne, steht ja nicht im Skript... er: joa, müsste sie da vll. mal irgendwann reinschreiben, egal)
+
+Atmosphäre:
+
+Dragon ist super nett, locker, hilfsbereit und freundlich. Prüfungen bei ihm kann man nur empfehlen.
+
+Tipps:
+
+Um die Prüfung sehr gut zu bestehen hat bei mir allein die Lektüre seines QM-Skript gereicht. Die Fragen sind wirklich sehr daran angelegt. Man sollte das also schon wirklich gut drauf haben. Dafür muss man aber auch ansonsten nichts wirklich anderes mehr lernen.
+
+Literatur:
+
+QM-Skript!
+
+Abschlussbemerkung:
+
+Note:
+
+1

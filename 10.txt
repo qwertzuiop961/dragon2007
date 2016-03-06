@@ -1,0 +1,53 @@
+Dragon
+
+Modul:
+
+Theoretische Physik (Diplom)
+
+Jahr:
+
+2008
+
+Lehrveranstaltung1:
+
+Theoretische Physik II: Quantentheorie I
+
+Lehrveranstaltung2:
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Themen:
+
+Harmonischer Oszillator, Wasserstoffatom, Zerfall, Störungstheorie, Thermodynamik
+
+Gestellte Fragen:
+
+Lorentzresonanz, Zerfall ins Kontinuum, goldene Regel, was bedeutet Kontinuum? Schrödingergleichung, Zeitentwicklung Harmonischer Oszillator: Woraus besteht die Quantenzahl n? Drehimpulsoperatoren/-algebra, Grundzustand, Aufsteiger, Absteiger, Vertauschungsrelationen, Bereich der Quantenzahlen m, l Wasserstoffatom: Spektrum, was kann man messen? (Energiedifferenzen), sind die Energielinien scharf? (Lorenzkurven), werden sie durch die Schrödingergleichung beschrieben? Sind angeregte Zustände stabil? Dichtematrix und Zeitentwicklung, von-Neumann-Gleichung, [tex]\langle \Lambda_{i}|[H,\rho]\Lambda_{i}\rangle=[/tex]? ([tex]\Lambda_{i}[/tex] sind Eigenvektoren von [tex]\rho[/tex]) (hermitesche) Operatoren und ihre Eigenschaften Zeitentwicklung bei einem gestörten Atomstrahl (Beschreibung über Dichtematrix) Störungstheorie (nicht entartet), Energieverschiebung, neuer Zustand Energieerwartungswerte, auch bei kontinuierlichen Verteilungen thermodynamisches Gleichgewicht, Boltzmannverteilung Entropie und Zeitentwicklung, Mischung von Gemischen, Gesamtentropie ist größer als anteilige Summe der Entropien Zustandssummen, Zustandssummen von Bosonen und Fermionen, Energieerwartungswerte, spezifische Wärme Fermionen, Bosonen, Vertauschbarkeit der Wellenfunktion (Vorzeichenwechsel?), vertauschen die Orte auch unter einer Permutation?
+
+Standartfragen:
+
+Harmonischer Oszillator, Wasserstoffatom, Thermodynamik, Schrödingergleichung, Störungstheorie
+
+Unerwartete Fragen:
+
+Bellsche Ungleichung
+
+Atmosphäre:
+
+Herr Dragon ist als Prüfer wirklich weiterzuempfehlen. Die Atmosphäre ist sehr gut und entspannt, auch wenn man selbst ziemlich nervös ist. Er redet recht viel selbst und gibt Tipps und Hilfen, wenn man nicht weiterkommt.
+
+Tipps:
+
+Literatur:
+
+Sein Skript zur Quantenmechanik sollte man auswendig können.
+
+Abschlussbemerkung:
+
+Note:
+
+1.7

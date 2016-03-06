@@ -1,0 +1,57 @@
+Dragon
+
+Modul:
+
+Fortgeschrittene Theoretische Physik
+
+Jahr:
+
+2012
+
+Lehrveranstaltung1:
+
+Theoretische Physik II: Quantentheorie I
+
+Lehrveranstaltung2:
+
+Theoretische Physik III: Statistische Physik
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Themen:
+
+Zeitentwicklung von Gemischen Lösungen der Schrödingergleichung mit Eigenwert E Zwei-Zustands-System und dessen Lösung durch Rabi-Oszillationen Drehimpulsalgebra Entropie und die Zeitentwicklung der Entropie Nicht-entartete Störungstheorie
+
+Gestellte Fragen:
+
+Wann ist ein Gemisch rein? (Entropie verschwindet) (S_{1-} S_{2-})|\lambda_{up,up}> = c * (\lambda_{down,up} \lambda_{up,down})
+
+Standartfragen:
+
+Dichtematrix van-Neumann-Gleichung Wahrscheinlichkeiten Auf- und Absteiger-Algebra Entropie Störungstheorie -> Alles aus seinem Skript kann drankommen!
+
+Unerwartete Fragen:
+
+Berechnung des Zeeman-Effekts gekoppeltes Spin-System Störungsrechnung der Entropie
+
+Atmosphäre:
+
+Sehr positiv,Prüfer führt einen durch die Gleichungen und hilft bei jedem Schritt. Man bekommt auch eine gute Note, wenn man wenig auswendig weiß, aber seine gewünschten Rechnungen korrekt durchführen kann.
+
+Tipps:
+
+Sein Skript KOMPLETT verstanden haben - aber das reicht dann auch. Keine zusätzliche Literatur notwendig. Bei Fragen zum Skript -> vorher zu ihm gehen und ihn erklären lassen!
+
+Literatur:
+
+Skript "Ergänzungen zur Quantenmechanik" von Norbert Dragon persönlich. (Alles bis auf das letzte Kapitel "relativistische QM".)
+
+Abschlussbemerkung:
+
+Note:
+
+1.3

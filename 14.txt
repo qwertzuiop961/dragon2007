@@ -1,0 +1,57 @@
+Dragon
+
+Modul:
+
+Theoretische Physik (Diplom)
+
+Jahr:
+
+2009
+
+Lehrveranstaltung1:
+
+Theoretische Physik II: Quantentheorie I
+
+Lehrveranstaltung2:
+
+Theoretische Physik III: Statistische Physik
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Themen:
+
+Sein Quantenmechanikscript bis einschl. Kapitel 7 (abgesprochen war aber auch Kap. 8)
+
+Gestellte Fragen:
+
+Lorentzresonanz, wie sieht die aus? Formel für [tex]\Gamma_\text{Goldene Regel}[/tex]
+
+Standartfragen:
+
+3D-HO Wasserstoffatom Rabi-Oszillationen Bellsche Ungleichung Boltzmann-Verteilung Bändermodell
+
+Unerwartete Fragen:
+
+Auswahlregeln Wie misst man die Frequenz von Licht?
+
+Atmosphäre:
+
+Angenehme Prüfungsatmosphäre, anfängliche Nervosität ist schnell verflogen.
+
+Tipps:
+
+Man sollte auch die Basics drauf haben, wenn man etwas nicht genau weiß oder eine Formel falsch aufschreibt darf man sie nämlich meist danach herleiten. Deswegen kann es nicht schaden, wenn man ein bisschen mit Kommutatoren, Skalarprodukten, den üblichen Operatoren etc. umgehen kann. Also nicht nur Skript auswendig lernen, sondern auch mal die eine oder andere Rechnung nachvollziehen (= selbst rechnen).
+
+Literatur:
+
+Skript Schwabl: QM 1 (für Wasserstoff)
+
+Abschlussbemerkung:
+
+Note:
+
+1

@@ -1,0 +1,53 @@
+Dragon
+
+Modul:
+
+Theoretische Physik (Diplom)
+
+Jahr:
+
+2008
+
+Lehrveranstaltung1:
+
+Theoretische Physik II: Quantentheorie I
+
+Lehrveranstaltung2:
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Themen:
+
+Wasserstoffatom Entropie Gemische
+
+Gestellte Fragen:
+
+Standartfragen:
+
+Störungstheorie: Energieverschiebung, gestörte Eigenfunktion Gemische, Dichtematrix und wo die herkommt Zusammenhang mit der Entropie. Eigenschaften der Entropie (Zeitentwicklung, etc)
+
+Unerwartete Fragen:
+
+Was wissen Sie über das Wasserstoffatom? Frage nach "Gesamtenergie"! Gemeint war der Unterschied zwischen Energiezuständen der Relativbewegung und Gesamtbewegung. (Hamiltonian vertauschen!) Insgesamt ist ihm das H-Atom offenbar wichtiger als sein Skript erwarten lässt.
+
+Atmosphäre:
+
+klar! Dragon halt
+
+Tipps:
+
+Die Anmerkungen zur QM lesen und dabei die Argumente und Schritte ganz genau nachvollziehen - auch wenn es länger dauert. Es lohnt sich. Zusammenhänge suchen und verstehen! Das letzte Relativitikkapitel scheint nicht so wichtig zu sein. Überhaupt stellt Dragon sehr grundlegende, tiefgehende Fragen. Man sollte versuchen ein gutes Basiswissen zu haben.
+
+Literatur:
+
+Dragons "Anmerkungen..." von seiner Seite
+
+Abschlussbemerkung:
+
+Note:
+
+1.3

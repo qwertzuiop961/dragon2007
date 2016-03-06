@@ -1,0 +1,51 @@
+Dragon
+
+Modul:
+
+Modulübergreifende Prüfung Theoretische Physik 2
+
+Jahr:
+
+2014
+
+Lehrveranstaltung1:
+
+Lehrveranstaltung2:
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Themen:
+
+Quantenmechanik Statistische Physik
+
+Gestellte Fragen:
+
+Grundlegende Sachen aus seinem ersten Kapitel
+
+Standartfragen:
+
+Wasserstoffatom (Effektives Pot. , Quantenzahlen, ...) Spin 1/2 Messung Entropie Störungstheorie (Nur die beiden Formel für (d/dLambda)E_n und (d/dLambda)Psi_n) Dichtematrix (Herleitung) Wahrscheinlichkeit einer Messung Kugelsymmetrischer Oszillator (Hamilton, Erzeuger-Vernichter, Quantenzahlen, ...) Drehimpulsalgebra
+
+Unerwartete Fragen:
+
+Nach einer Drehung um wie viel Grad geht die Polarisation von Licht wieder in den eigenen Zustand über?(180 Grad) und wie ist das bei Gravitationswellen? (90 Grad)
+
+Atmosphäre:
+
+Die Atmosphäre war entspannt, Professor Dragon ist ein sehr netter Prüfer
+
+Tipps:
+
+Unbedingt mit seinem Skript arbeiten und das Wasserstoffatom lernen
+
+Literatur:
+
+Abschlussbemerkung:
+
+Note:
+
+2

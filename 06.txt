@@ -1,0 +1,55 @@
+Dragon
+
+Modul:
+
+Theoretische Physik (Diplom)
+
+Jahr:
+
+2007
+
+Lehrveranstaltung1:
+
+Theoretische Physik II: Quantentheorie I
+
+Lehrveranstaltung2:
+
+Theoretische Physik III: Statistische Physik
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Themen:
+
+periodisches Potential, H-Atom, Lorentzresonanz, harmonischer Oszillator, Zustandssumme, Zustandsreduktion
+
+Gestellte Fragen:
+
+Periodisches Potential: Translationsoperator? Was koennen Sie ueber das Spektrum sagen? (Baender, Dispersionsrelation) Welche Zustaende sind bei T=0 besetzt? (Pauli-Prinzip, Fermi-Energie) Spektrum des H-Atoms? Beobachtetes Linienprofil? (Lorentzkurve) Warum gibt es streng genommen keine Lorentzresonanz? Goldene Regel? Saubere Herleitung von goldener Regel und Lorentzresonanz? (Wollte die Formel mit dem Hauptwertintegral wissen (Gl. (7.52) im Skript), die wusste ich nicht, er wusste sie aber selbst nur so ungefaehr.) Harmonischer Oszillator: Spektrum im eindimensionalen Fall? Erzeuger-Vernichter-Algebra? Spektrum im dreidimensionalen Fall? Entartungsgrad? Wie kommt man auf den Entartungsgrad? Welchen Drehimpuls haben die Zustaende jeweils? Wie konstruiert man die Zustaende? Aufeinanderfolgende Messungen? (komplette Herleitung der Zustandsreduktion) Dichtematrix im thermodynamischen Gleichgewicht? Zustandssumme? Was kann man aus Z berechnen? (zum Beispiel den Erwartungswert der Energie) Kann man den denn messen? (nein) Was kann man stattdessen messen? (Spezifische Waerme) Was ist Z beim H-Atom? (divergiert) Was tun, wenn Z divergiert? (Problem in Kasten einschliessen, periodische Randbedingungen) Wellenfunktion beim H-Atom? Wie verhaelt sich die Grundzustandswellenfunktion fuer grosses r? (Kann man eigentlich nur richtig raten: Sie faellt mit exp(-r/a), wobei a der Bohrradius ist.) Und wie ist das bei n>1? (Wusste ich nicht. Sie faellt mit exp(-r/(na)). Dragon nach der Pruefung: Das habe ich Sie nur gefragt, damit Sie in der Pruefung noch was lernen.) Radiale Zustandsdichte im Grundzustand? (Vorsicht! Enthaelt diese das Volumenelement r^2?)
+
+Standartfragen:
+
+Alles aus Dragons Skript (ausgenommen vielleicht Kapitel 9) und das H-Atom
+
+Unerwartete Fragen:
+
+Herleitung der Lorentzresonanz, Einzelheiten zur Wellenfunktion des H-Atoms
+
+Atmosphäre:
+
+Baby Norbert redet die meiste Zeit selbst. Trotzdem als Pruefer sehr zu empfehlen. Ist locker und verzeiht Fehler. Es hat schon einen Grund, dass sich so viele von ihm pruefen lassen.
+
+Tipps:
+
+Dragons Skript gut kennen. (Vorsicht! Von Zeit zu Zeit kommt ein neuer Abschnitt dazu.) Zur Ergaenzung Messiah, Schwabl und Schulz: Statistische Physik.
+
+Literatur:
+
+Abschlussbemerkung:
+
+Note:
+
+1

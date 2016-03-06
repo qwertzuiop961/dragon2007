@@ -1,0 +1,57 @@
+Dragon
+
+Modul:
+
+Theoretische Physik (Diplom)
+
+Jahr:
+
+2011
+
+Lehrveranstaltung1:
+
+Theoretische Physik II: Quantentheorie I
+
+Lehrveranstaltung2:
+
+Statistische Physik
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Beste Note, die ich jemals in theoretischer Physik bekommen habe - yeah Danke Dragon...
+
+Themen:
+
+Aus seinem Skript die Kapitel 1-7 Drehimpulsalgebra Dichtematrix Erzeuger/Vernichter Störungstheorie Wasserstoffatom Bloch-Theorem und Energiebänder Schrödingergleichung Mischen von Gemischen
+
+Gestellte Fragen:
+
+Standartfragen:
+
+Dragon stellt - vom H-Atom mal abgesehen - Fragen zu seinem Skript. Die wichtigen Formeln daraus sollte man daher können - hier aber seine Fragen: Drehimpuls- und Heisenbergalgebra Aufsteiger/Absteiger im Harmonischen Oszillator Quantenzahlen im Wasserstoffatom / Harmonischen Oszillator, welche Werte können n,l,m annehmen? Energie hinschreiben (mit Indizes): [tex]E_n,l,m = -Ry / n [/tex] Entropie Gemische von Gemischen
+
+Unerwartete Fragen:
+
+Welches Energieniveau muss man anregen, um ein Wasserstoffatom auf einen Radius von 1m zu vergrössern? Die Antwort lässt sich theoretisch mit Hilfe von Formeln ausrechnen - praktisch wird dabei die n-Quantenzahl mehr oder weniger unendlich, so dass sich dieses Atom nicht von einem ionisierten unterscheiden lässt.
+
+Atmosphäre:
+
+Dragon versucht die Aufregung zu nehmen und Hilft einem weiter, wenn man etwas falsch hinschreibt oder etwas mal nicht weiss. Seine Fragestellung ist manchmal etwas 'diffus' - hier helfen Nachfragen á la 'Meinen Sie jetzt A oder B?' Dann wird klar, was man sagen soll. Nach Beantwortung der einen oder anderen Frage, erzählt er einem dann etwas dazu und erläutert gewisse Dinge. So lernt man in seiner Prüfung auch noch etwas (auch wenn das fürs eigene Gefühl eher - abträglich - ist) Wenn man eine Formel falsch hinschreibt, dann weist er einen auf den Radiergummi hin, und man darf die falschen Teile der Formel annulieren.
+
+Tipps:
+
+Die grundlegenen Formeln sollten sitzen. Am besten man kann sein Skript quasi auswendig hinschreiben... Das was man nicht so ganz weiss, "darf" man dann mit seiner Hilfe herleiten.
+
+Literatur:
+
+Auf die Frage, was er denn so prüfe, antwortete er 'Es gäbe da so ein Skript' - kramt eine bei ihm herumliegende Version seiner 'Anmerkungen zur Quentenmechanik' hervor und fragt, ob man die schon habe. Das sei ein Service der Uni, der von den Studiengebühren bezahlt wird. Prüfen würde er aber nicht die Inhalte von Kapitel 9 (Relativistische Quantenmechanik), obwohl das ein sehr schönes Thema wäre. Das Kapitel sei nämlich noch nicht fertig... http://www.itp.uni-hannover.de/~dragon/ Ausser seines Skriptes habe ich hier und da nochmal Schwabel, Quantenmechanik I benutzt. Im Zweifelsfall gilt dann einfach Dragons Version...
+
+Abschlussbemerkung:
+
+Note:
+
+1.3

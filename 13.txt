@@ -1,0 +1,57 @@
+Dragon
+
+Modul:
+
+Theoretische Physik (Diplom)
+
+Jahr:
+
+2009
+
+Lehrveranstaltung1:
+
+Theoretische Physik II: Quantentheorie I
+
+Lehrveranstaltung2:
+
+Theoretische Physik III: Statistische Physik
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Themen:
+
+Sein Skript, bis einschließlich Kapitel 7, und zwar alles davon.
+
+Gestellte Fragen:
+
+Schrödingergleichung, stationäre Zustände Lorentzresonanz angeregter Wasserstoff, Stabilität von angeregtem Wasserstoff, Isolierte Systeme (was ist das?), Goldene Regel (u.a.: was ist $H_{0}$, was $H_{\text{int}}$?), wie viele freie Parameter hat $H_{\text{int}}$? (keine), Skizze zu Lorenzkurven allgemeine (nicht-Eigen-)Zustände, müssen Zustände immer Eigenzustände sein? Zeitentwicklung für Zustände Auswahlregeln Stern-Gerlach, Spin-1/2, Polarisation, "Polarisationsnebel" (kein Kontrast), wann liegt ein reiner Zustand vor?, Maße für die Reinheit eines Zustands Gemisch, Dichtematrix, Dichtematrix in Eigenbasis, Anzahl freier Parameter der Dichtematrix, Entropie Zweizustandssystem, Rabi-Oszillation, was passiert bei Gemischen? Mischen von Gemischen, Entropie dabei? Bereich der Quantenzahlen n,l,m nichtentartete Störungstheorie, Idee bei entarteter Störungstheorie, gestörter Wasserstoff mit n=2, Zeeman-Effekt, Stark-Effekt, Skizze dazu (lineare und quadratische Abhängigkeit), in diesem Zusammenhang auch Drehimpulsoperatoren Periodisches Potential, Hillsche Differentialgleichung, wie löst man die?, Wiederkehrabbildung, warum reell? (reelle DGL, reelle Startwerte), Dispersionsrelation (Skizze, Symmetrie mit Formeln) Kontinuitätsgleichung, Wronski-Determinante (u.a. wie kann man sich die merken?) Unitäre und hermitesche Operatoren und deren Eigenschaften Grundgleichung der Quantenmechanik
+
+Standartfragen:
+
+Man sollte sich auf *alles* aus seinem Skript bis einschließlich Kapitel 7 gefasst machen
+
+Unerwartete Fragen:
+
+Kopplung des Wasserstoffatoms ans Photonenfeld bzw. was bedeutet isoliertes System?
+
+Atmosphäre:
+
+Super! Herr Dragon ist ziemlich locker und redet einen Großteil der Prüfung selbst.
+
+Tipps:
+
+Skript auswendig lernen
+
+Literatur:
+
+Sein Skript, dazu ergänzend Cohen-Tannoudji, Schwabl, Greiner.
+
+Abschlussbemerkung:
+
+Note:
+
+1

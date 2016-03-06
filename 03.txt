@@ -1,0 +1,59 @@
+Dragon
+
+Modul:
+
+Modulübergreifende Prüfung Theoretische Physik II
+
+Jahr:
+
+2013
+
+Lehrveranstaltung1:
+
+Einführung in die Quantentheorie
+
+Lehrveranstaltung2:
+
+Statistische Physik
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Themen:
+
+-Erzeuger-Vernichter-Algebra -Drehimpulsalgebra -Harmonischer Oszillator -Wasserstoffatom -Dichtematrix -Entropie -Störungstheorie -Mischen von Gemischen -thermisches Gleichgewicht -Plancksches Strahlungsgesetz
+
+Gestellte Fragen:
+
+Die Prüfung began mit der Frage: In der Quantenmechanik gibt es so Erzeuger und Vernichter. Wofür sind die denn gut? Da die Frage doch sehr unkonkret gestellt war antwortete ich spontan: Man kann damit zum Beispiel das Problem des harm. Osz. sehr bequem beschreiben, so erhält man zum Beispiel die n Quantenzahl durch den Eigenwert von a a. D: Dann schreiben sie doch mal einen der Operatoren auf. Welche Dimension hat so ein Ding überhaupt? A: Die Operatoren sind dimensionslos.-a aufgeschrieben und natürlich im Summanden mit dem Impulsoperator die Länge zur Normierung vergessen- D: Schreiben sie mal bitte dieses merkwürdige "P" aus. A: Oh ich hab hier was vergessen. -a verbessert- Anschließend P hingeschrieben und das Unheil nahm seinen Lauf. D: Wie sieht der Kommutator [a ,a] aus? A: 1....ähm nein -1. D: Ja -1 ist richtig. Wie können wir uns das Vorzeichen denn klar machen? A: ??? D: Na schreiben sie mal das Skalarprodukt aus. Gemacht A: Ah hier ist der Kommutator drin und da Betragsquadrate positiv sind muss [a,a ] positiv sein! D: Und wie sieht die Wellenfunktion im Grundzustand des HO aus? A: -hingeschrieben- D: Wie erhalte ich daraus nun den n-fach angeregten Zustand? A: n-fach Aufsteiger anwenden und mit 1/Sqrt(n!) normieren. D: Kommen wir nochmal zurück zu ihrem Impuls. Sie haben da vorhin was aufgeschrieben. Wie kann es denn sein, dass ein Operator, in dem ein i steht hermitesch ist? A: Öhm... D: Na schreiben sie mal das Skalarprodukt auf, wir versuchen den mal abzuwälzen. A: < Y | P X >= Integral[dx Y* P X]=Integral[dx ih dY*/dx X]=Integral[dx (-ihdY/dx)* X]=
+
+Also ist P ein hermitescher Operator! Dabei habe ich mich so dämlich angestellt. Herr Dragon hat mir in guter Näherung 5000 Hinweise gegeben, wobei wir irgendwann bei partieller Integration und irgenwelchen Leibniz Integralsätzen waren. Ich wusste allerdings nicht mehr, wo oben oder unten ist. 5 Minuten und 30 Radiergummieinsätze später hatten wir dann das Ergebnis was jeder Abiturient eleganter hinbekommen hätte. D: Es gibt da noch ein relativ einfaches Beispiel , wo es so ähnliche Quantenzahlen wie beim HO gibt. A: Wasserstoffatom D: Ja ich hätte gerne die Energieeigenwerte E_n,l,m=?. Die hat ja jeder schon mal gesehen. A= E_n,l,m=-13,6eV/n^2 D: Da stehen jetzt noch l und m. Warum haben die nichts mit der Energie zu tun? A: Der Hamiltonoperator vertauscht mit L^2 und L_3. D: Welche Laufbereiche haben dann n,l und m= A: n=1,2,... l=0,1,...,n-1 m=-l,-l 1,...,l D: Also bei HO haben wir die angeregten Zustände durch Aufsteigen erhalten. Wie beschreibt man die Zustände hier? A: Aufteilen der Wellenfunktion in Radial- und Winkelanteil. 3 Minuten gefüllt von unverständlichen Fragen später sagte er mir endlich was er als nächstes haben wollte. D: Was steckt denn im Radialteil drin? A: Ne e-Funktion und so nen paar Polynome. D: Zeichnen sie mal den Radialteil. Ich habe dann ne standard e^-r Kurve gemalt. D: Das r ist ja über nen Betrag definiert. Aber wenn ich karthesische Koordinaten verwende gibt es ja auch z.B. negative x Werte. -Im Diagramm auf der negativen Seite das spigelverkehrte hingemalt. D: Jetzt ist ja in der Mitte eine Spitze. Ist das nicht unphysikalisch? A: ?!?! Es folgte ein 5 Minütiger Monolog seinerseits darüber, dass Kugelkoordinaten bei r=0 nicht diffbar sind usw. War ihm aber wohl unterm Strich nicht so wichtig. D: Wie bekommt man denn die Energien? A: Schrödingergleichung lösen. -Hamiltonfkt. für Wasserstoffatom in karthesischen Koord. und Kugelkoordinaten aufschreiben. D: Malen sie mal ihre Potentiale. (1/-r und 1/r^2 effektives Potential). D: Kennen sie so ein ähnliches Bild schon? A: Keppler Problem(wusste ich nicht) D: Gut. Womit beschreiben wir denn in der Quantenmechanik quasi alles? A: Wahrscheinlichkeiten!? D: Wie sieht sowas aus? A: Die erste Seite seines Skripts erklärt. D: Nun ist es ja langweilig wenn wir immer nur einen Zustand vermessen? Ich hab hier mal nen Ofen der präpariert mal Y_1, mal Y_2, uws. A: Die Standardherleitung für die Dichtematrix. D: Wie beschreiben wir denn nun die Abweichung von einem reinen Zustand? A: Entropie Standardgedöns. D: Und wenn sich meine Dichtematrix mit der Zeit ändert, wie ändert sich die Entropie? A: ??? D: Naja wirklich wichtig ist ja, ob sich die Eigenwerte mit der Zeit änder. Tun sie das? A: Mh joa da würde ich jetzt mal die Störungsrechnung rausholen und gucken. D: 5 Minuten bla bla, da er das mit der Störungsrechnung nicht gehört hat. A: Wie schon gesagt das geht mit der Störungsrechnung! D: Ja das wollte ich doch hören. Machen sie doch mal. A: Störungstheorie mit dE_n(lambda)/d(lambda) und d Y_n/d(lambda), danach übertragen auf die Dichtematrix => dS/dt=0!! D: So und nun habe ich zwei Öfen und das was da rauskommt wird überlagert. Wie nennt man das dann? A: Mischen von Gemischen. D: Wie verhält sich die Entropie dabei? A: Die berühmte Ungleichung erklären D: Wie sieht dann die Funktion in Abhängigkeit des Mischungsparameters aus? A: Das nette Bild aus dem Skript malen. D: -malt keine schön gewölbte Kurve sondern ein komisches Gebilde mit Höckern- Kann das auch so aussehen? A: Nein die Ungleichung muss auch für benachbarte Gemische gelten, also muss sie überall konkav sein. D: So jetzt haben wir genug und stellen unser System in so ein Wärmebad. Wie sehen dann die Eigenwerte der Dichtematrix aus? A: Boltzmannverteilung. Erklärung der Zustandssumme D: Sie kennen bestimmt so 1-2 Zustandssummen. Schreiben sie die doch mal hin. A: -Die beiden aus dem Skript aufgeschrieben- D: Und die Energieerwartungswerte? A: -Die dazu passenden aufgeschrieben- D: Achso. Das hätte ich fast vergessen. Die ganzen theoretischen Physiker wollen alle diese Zustandssummen haben. Kann man die messen? Wäre ja total praktisch für die Jungs. A: Also man kann alle Energien außer die Grundzustandsenergie messen, also die Energiedifferenzen. Dann erhält man die Zustandssumme bis auf eine Integrationskonstante.(Hat ihm nicht gefallen) D: Naja was messen wir denn wenn wir etwas Energie dem System zufügen und gucken wie sich das System erwärmt pro Masse A: Die spezifische Wärme. Aus der erhält man dann die Zustandssumme mit 2 Integrationskonstanten (er war glücklich!) D: Dann wollen wir noch mal in einen Hohlraum schauen. Da haben wir ja eine spektrale Energiedichte. Kennen sie die? A: Plancksches Strahlungsgesetz hingeschrieben. D: Und hier will ich ihnen mal etwas über die ewige Diskussion mit dem Praktikumstutor erzählen. Ich verwende auch lieber die Version, die sie verwendet haben mit der Frequenz. Aber man kann das auch mit der Wellenlänge schreiben. Da steht dann im Zähler anstatt w^3 ein lambda^-5. Und bei der Auswertung haben wir komplett andere Verteilungen raus und der Praktikumsmensch versteht einfach nicht, dass man mit der Wellenlänge dort eine ganz andere Skala hat. Im Ergebnis kann man dann nicht einfach w ist prop. zu 1/lambda nehmen und bekommt das gleiche Ergebnis raus. Es folgen weitere 5 Minuten Erzählungen von ihm zum Strahlungsgesetz, wobei ich dem Grundsatz -lächeln und nicken- folge. D: Na gut, dann lassen sie uns mal allein.
+
+Standartfragen:
+
+Eigentlich waren alle Fragen mehr oder weniger Standardfragen, allerdings kommen manchmal sehr unerwartete Spontanfragen von ihm.
+
+Unerwartete Fragen:
+
+-Wenn in dem Impulsoperator ein i steht, warum ist er dann noch hermitisch? -L -Operator: Würden sie für das Minuszeichen unter der Wurzel ihre Hand ins Feuer legen? -Wenn sie den Radialteil der Wellenfunktion des Wasserstoffs malen, dann ist doch in karthesischen Koordinaten bei x=0 eine Spitze.Ist das nicht unphysikalisch? -Wenn sich die Dichtematrix mit der Zei ändert, warum ändern sich ihre Eigenwerte nicht?
+
+Atmosphäre:
+
+Die Atmosphäre war locker. Ich war ziemlich nervös, was man an meinen wackeligen Zeichnungen sehen konnte, aber Herr Dragon bleibt da sehr geduldig und stößt einen so lange in die richtige Richtung, bis man irgendwann auf das Ergebnis kommt.
+
+Tipps:
+
+Also im Prinzip hätte ich mir nie im Leben die 1,3 gegeben. Herr Dragon meinte aber, dass die Prüfung alles in allem gut verlief, ich allerdings einen Tiefpunkt bei der partiellen Integration hatte und er mir deshalb leider nicht 1,0 geben könne. Im vergleich zu den anderen Prüfungen ist meine Note wohl aber doch angemessen. Tipps: Prüfungsprotokolle durcharbeiten. Skript lesen. Von Dragon prüfen lassen ;) Also im Prinzip habe ich nicht wirklich Ahnung von dem was ich ihm da erzählt habe, aber er meinte er sei mit dem Lernerfolg zufrieden. Wenn ihr also nicht so die Freunde der theoretischen Physik seid nehmt den guten Herr Dragon als Prüfer. Er hat nen Skript und es gibt unzählige Prüfungsprotokolle, sodass quasi keine bösen Überraschungen auftreten.
+
+Literatur:
+
+Dragon Skript Prüfungsprotokolle
+
+Abschlussbemerkung:
+
+Note:
+
+1.3

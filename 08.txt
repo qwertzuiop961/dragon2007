@@ -1,0 +1,57 @@
+Dragon
+
+Modul:
+
+Theoretische Physik (Diplom)
+
+Jahr:
+
+2007
+
+Lehrveranstaltung1:
+
+Theoretische Physik II: Quantentheorie I
+
+Lehrveranstaltung2:
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Dragon kann ich empfehlen, bin einmal im Freiversuch total durchgerauscht, aber wenn man mal Ahnung von dem Kram hat, macht die Prüfung echt Spass, es kommt eigentlich auch nichts Unerwartetes, wenn man sich mal die ganzen Protokolle angeguckt hat, dann fügt sich bei ihm alles zu einem Ganzen Großen, nicht so wie in seinem Skript in beiden Prüfungen hab ich auch noch einiges gelernt
+
+Themen:
+
+Spin Stern-Gerlach Wasserstoff Harmonischer Oszillator Lorentzresonanz Gemische Entropie
+
+Gestellte Fragen:
+
+Wie kann ich Spin 1 oder 2 darstellen? wusste ich nur weil die Frage bei einem vor mir dran kam Spin1 ein Strich - und dazu senkrecht (90° gedreht) Spin2 ein Kreuz + und x (45° gedreht zu +) deshalb wird auch das Bild für die Wahrscheinlichkeiten beim Stern-Gerlach-Analogon um den Faktor 2 für Spin1 bzw. 4 für Spin2 gestaucht mit dem Winkel Theta
+
+Standartfragen:
+
+Spin Stern-Gerlach, Abhängigkeit Wasserstoff, wie lösen, (Überführung in Schwerpunkts- und Relativbewegung, warum nützlich, vorher 3Terme, danach auch -> Operatoren vertauschen, H=Hs+Hr deshalb E=Es + Er) Spektrum, Quantenzahlen, Entartungen, woher, Relativbewegung wichtig? (ja, Dopplerverschiebung) harmon. Oszi. dazu Operatoren, Eigenwerte in 3D (wieder möglich über Summe des H=Hx+Hy+Hz, weil alles vertauscht) Lorentzresonanz Fermis Goldene Regel Mischen von Gemischen, dazu Entropie (konkave Fkt, kann Maximum haben, Energieerwartungswert ist anteilige Summe) Zeitentwicklung über Störungsrechnung 1.Ordnung für d(roh i)/dt
+
+Unerwartete Fragen:
+
+Wie kann man beschreiben, dass sich das Gemisch verändert, obwohl nach der von-Neumann-Gleichung sich nichts ändert? (-> Zeitentwicklung auf einer Strecke über die ich nichts weiß) l-Entartung beim harm. Oszi? max. min. von allg. reduzierter Masse
+
+Atmosphäre:
+
+Die Atmosphäre war locker, er hat oft geschmunzelt, ab und zu mit dem Protokollanten gelacht und mich einmal zum Lachen gebracht, als ich vor der Prüfung reinkam hat er nicht viel gesagt, da war ich schon etwas nervös, aber dann fragt er ja ein paar Sachen, wo man Diplomarbeit macht und dann ghts wahrscheinlich mit dem Thema los. Auf Flüchtigkeiten oder Fehler weist er dezent hin
+
+Tipps:
+
+sein Skript durcharbeiten, bis inkl. Kap. 7 (Lorentz, Zerfall) bei Energiebändern Festkörperbücher nehmen, da verständlicher, unbedingt öfter mit jemanden oder mehreren treffen und Themen besprechen, ausdücklich zu empfehlen, unbedingt Leute befragen die vor einem Prüfung hatten, da er oft die gleichen Fragen stellt (zB. Telefonnummmern aufschreiben wenn man sich anmeldet), bei mir kamen exakt gleiche Sachen dran, wie z.B. dass seine Kaffeetasse abkühlt, oder der Spin von Gravitonen, oder wie man die darstellt
+
+Literatur:
+
+sein Skript! Prüfungsprotokolle Tanoudji (aber nur mal um zu vergleichen und anders zu sehen) Repetitorium d. TheoPhy. (Wachter, Hoeber) Festkörper (für Energiebänder, Kittel)
+
+Abschlussbemerkung:
+
+Note:
+
+1.3

@@ -1,0 +1,57 @@
+Dragon
+
+Modul:
+
+Theoretische Physik (Diplom)
+
+Jahr:
+
+2008
+
+Lehrveranstaltung1:
+
+Theoretische Physik II: Quantentheorie I
+
+Lehrveranstaltung2:
+
+Festkörperphysik
+
+Lehrveranstaltung3:
+
+Thermodynamik I
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Themen:
+
+Quantenmechanische Drehimpulse Harmonischer Oszillator Periodisches Potential Bandstruktur Dichtematrix Entropie
+
+Gestellte Fragen:
+
+Standartfragen:
+
+eigentlich alle Themen bekannt.
+
+Unerwartete Fragen:
+
+Alle technischen Genauigkeiten, die er hören wollte. (mathematisch)
+
+Atmosphäre:
+
+Prof Dragon ist schon locker und hilfsbereit, stellt die Fragen aber sehr kompliziert, so dass man häufig nicht auf die eigentlich einfachen Antworten kommt. Zudem muss mathematisch technisch alles sehr genau sein.
+
+Tipps:
+
+Auf jeden Fall das QM Script von ihm lesen! Ansonsten sucht er nach Schwächen, so dass er einen am Rand seines Könnens entlangführt. Das ist in der Prüfung selbst recht beunruhigend. Insbesondere sollte man mathematisch sehr genau sein.
+
+Literatur:
+
+Script über QM von Dragon Nolting für Überblick
+
+Abschlussbemerkung:
+
+Note:
+
+2

@@ -1,0 +1,57 @@
+Dragon
+
+Modul:
+
+Modulübergreifende Prüfung Theoretische Physik II
+
+Jahr:
+
+2014
+
+Lehrveranstaltung1:
+
+Einführung in die Quantenmechanik
+
+Lehrveranstaltung2:
+
+Statistische Physik
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Themen:
+
+Drehimpulsalgebra Spin-1/2-System Dichtematrixformalismus 2-Zustandssystem (Rabi-Oszillation) Thermodynamik (Entropie) Störungstheorie
+
+Gestellte Fragen:
+
+Keine.
+
+Standartfragen:
+
+Zunächst die konkrete Berechnung eines Spin-1/2-Systems, siehe unerwartete Fragen. Dann: Wie können wir denn den Zustand eines Systems allg. beschreiben? (-> Dichtematrix) Wie ist die denn definiert? (-> "Herleitung" aus seinem Skript) Wie sieht denn der Hamiltonoperator für ein 2-Zustandssystem aus? (-> diagonale 2x2-Matrix) Was hat die Schrödingergleichung dann für Lösungen? (-> \psi_1 (t)=\exp(-i/hquer *E_1*t)*\psi_1(0) ) Wie sieht dann die Wahrscheinlichkeit für den ersten Messwert aus? (-> w(1,A,\psi)=...=a bcos(\omega t \phi), also Schwingung um a, \omega=(E_1-E-2)/hquer Rabi-Frequenz) Untersucht man mehrere Messungen, hängt das ganze ja von einem Winkel ab, können Sie das mal zeichnen? (-> Bild zu w(\theta) aus seinem Skript für 3 Werte von c) Wie ist die Entropie definiert? (-> Definition für Wahrscheinlichkeitsverteilung und Dichtematrix, Beschränkung des einen durch das andere) Ändert sich die Entropie unter Schrödinger-Zeitentwicklung? (-> Nein, da sich die Eigenwerte von \rho nicht ändern) Warum? (-> angefangen mit i*hquer*d\rho_i/dt=...) Darin verwenden Sie jetzt ja schon ein Ergebnis, woher kommt das denn? (-> Störungstheorie) Genau, wie sieht die denn aus? (-> Wollte nur die Ergebnisse (nicht-entartet) für die Änderung von E_n und \psi_n) Gut, wie verhält sich dann die Entropie in Abhängigkeit von \lambda? (-> konkave Funktion, Bild aus dem Skript) Und wie sieht das mit der Energie aus? (->Gerade unterhalb der Entropie-Kurve) --> Gut das reicht mir dann!
+
+Unerwartete Fragen:
+
+Konkrete Berechnung für ein Spin-1/2-System: Dragon hatte mir den Hamitltonoperator H=\epsilon/(2hquer^2) (\vec(S_1) \vec(S_2))^2 vorgegeben. Er hat dann zunächst direkt nach dem Spektrum gefragt, aber gleich eingesehen, dass er ein fertiges Ergebnis wohl nicht erwarten könne. Daraufhin haben wir es dann mehr oder weniger "gemeinsam" berechnet, dazu gehörte: -allg. Drehimpulsalgebra (mit Eigenwerten und Laufbereichen der Quantenzahlen, Auf-und Absteigeoperator) -spezieller: Ist die Summe zweier Drehimpulsoperatoren ein Drehimpulsoperator? Die Differenz auch? ->nur Summe) -dann Bestimmung aller m-Werte (->{0.5 0.5,0.5-0.5,-0.5 0.5,-0.5-0.5}) -daraus die Energien mit Entwartung (->E_1=\epsilon/(2hquer^2)*hquer^2*l*(l 1)=\epsilon, E_0=0) -dann hat der gute Mann einen zusätzlichen Term in den Hamiltonoperator eingebaut: \mu*\vec(B)*(\vec(S_1) \vec(S_2)) (-> Zeeman-Effekt) -mit diesem Term Aufspaltung des Spektrum (->E_1 dreifache Entartung aufgehoben, einmal mit Steigung \mu, einmal 0 und einmal -\mu, E_0 nicht entartet) Als wir das geschafft hatten, kamen eigentlich nur noch Standard-Fragen.
+
+Atmosphäre:
+
+Sehr gut. Trotz anfänglicher Nervosität bleibt Herr Dragon geduldig. Kommt man einmal nicht weiter, hilft er gerne, indem er die Frage neu formuliert oder zunächst etwas "einfacheres" erfragt. (sehr treffendes Zitat von ihm dazu: "Es ist nicht schlimm, wenn Sie mir eine Frage nicht gleich beantworten können, dann demütige ich sie einfach so lange mit einfacheren Fragen, bis Sie mir eine beantworten können" (Dragon, in der VL MMdP). Ich habe viele Dinge in der Prüfung nicht gleich gewusst oder hinschreiben können, aber das war ihm auch nicht wichtig. Wichtig ist ihm, mit seiner Hilfe dann alles hinzubekommen, sodass am Ende das Ergebnis auf dem Papier steht. Ungewöhnlich war, dass er in keinster Weise nach dem Wasserstoffatom gefragt hat, das hatte er bei der Terminbesprechung noch ausführlich angekündigt.
+
+Tipps:
+
+Vorbereitung mit seinem Skript! Zusätzlich ist das Wasserstoffatom sehr zu empfehlen, auch wenn es bei mir gefehlt hat. Bei seinem Skript kann man durchaus abwägen, die letzten Kapitel sowie die technisch hoch anspruchsvollen scheinen nicht allzu wichtig zu sein. Man sollte mit seinem Skript jedoch intensiv gearbeitet haben, um dann mit ihm darüber reden zu können. Und natürlich: Der Mann fragt mitunter sehr diffus, hier gilt: Lieber 1-2 mal nachfragen, vielleicht formuliert er die Frage ja um oder beantwortet sie versehentlich selbst.
+
+Literatur:
+
+https://www.itp.uni-hannover.de/~dragon/stonehenge/qm.pdf
+
+Abschlussbemerkung:
+
+Note:
+
+1

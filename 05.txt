@@ -1,0 +1,53 @@
+Dragon
+
+Modul:
+
+Modulübergreifende Prüfung Theoretische Physik II
+
+Jahr:
+
+2014
+
+Lehrveranstaltung1:
+
+Einführung in die Quantentheorie
+
+Lehrveranstaltung2:
+
+Statistische Physik
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Themen:
+
+Schrödinger Gleichung Zeitentwicklung eines Zweizustandsystems ->Rabioszillation periodisches Potential/Bändermodell Pauliverbot Thermodynamik
+
+Gestellte Fragen:
+
+Standartfragen:
+
+Schrödingergleichung Rabioszillation insbesondere die Frage, wann verschwindet die Rabioszillation (Faktor b aus dem Skript). Was bedeutet es in welchen EZ zu sein etc. Schaut euch den letzten Teil des Kapitels genau an und macht euch die verschiedenen Fälle klar. Wie sieht ein periodisches Potential aus? Von dem Thema hatte ich quasi Null Ahnung und konnte mich nur an dem, was Dragon mir vorgekaut hat ein wenig entlanghangeln. Letztlich haben wir das ganze Kapitel Energiebänder bearbeitet, welches ich zuvor nicht verstanden habe. Glänzen konnte ich dabei nicht undbedingt, allerdings konnte ich folgen und mitreden - was ihm letztlich ausgereicht hat. Zwischendurch haben wir uns die Wirkung eines Operators auf einen Zustand explizit angeschaut. Sprich explizit P Psi und X Psi für eine Gaußfunktion (Grundwellenfkt) angeschaut und gezeichnet (ist eine Fußnote in seinem Skript). Mehrteilchensystem Helium -> Pauliverbot Er wollte sehen, ob ich das Pauliverbot auch "verstanden" habe. Sprich ich sollte wissen woher es kommt. Letztlich sind wir auf die Gleichung cij=-cji gekommen, aus der folgt, dass zwei gleiche Spins in einem Produkt nur möglich für i ungleich j möglich ist. So detailiert steht dies auch nicht in seinem Skript. Thermodynamik Letztlich die Standardfragen, die auch in den anderen Protokollen zu finden sind. Ein wenig gemein war die Frage, ob ich mir bei der Formeln zur Störungstheorie dPsi/dLambda mit den Indizes sicher sei - war soweit richtig, allerdings wollte er hören warum. Ersetzt man |Psi_n> durch |c*Psi_n> mit |c|=1 lässt sich dies aus dem Prdoukt heraus ziehen und aus der Gleichung kürzen. Beim bra Vektor muss das c komplex konjugiert werden und kürzt sich mit dem c*Psi_m vor dem Bruch. Danacht folgten weitere Standardfragen zu Zustandssummer, Boltzmannverteilung etc. Abschließend hat er noch gefragt wo denn die Grundzustandsenergie verschwindet -> Raumkrümmung. Er wollte dann explizit sehen wie die Energie aussieht - dies wusste ich nicht (mehr). Nahm er mir letztlich nicht so übel.
+
+Unerwartete Fragen:
+
+Atmosphäre:
+
+Dragon ist ein sehr freundlicher Prüfer, der einen nichts wirklich böse nimmt. Ihr müsst keine Angst vor der Prüfung haben (!) - auch mit Wissenslücken. Das schlimmste, was euch passieren kann ist, dass ihr eine schlechte Note bekommt. Für den Fall bietet Dragon euch aber an einen neuen Termin zu vereinbaren und euch beim lernen zu helfen. Dragon benotet nicht danach, wie viel Faktenwissen ihr abliefern könnt, sondern wie viel Verständnis ihr habt. Dragon hat genug Zeit dies herauszufinden, auch wenn ihr nervös seit. Die Atmosphäre in der Prüfung war meiner Auffassung nach aber alles andere als gut - zumindest aus meiner Sicht. Die Prüfung befand sich eher auf Diplomniveau, wie der Beisitzer später berichtete. Ich habe vieles nicht gewusst (insbesondere Energiebänder) und habe mich eher an dem was Dragon gesagt hat entlang gehangelt, statt mein Wissen zu präsentieren. Oftmals wusste ich schlicht keine Antwort und musste einfach passen. Das fühlt sich alles andere als gut an. Von daher hatte ich mich schnell auf eine relativ schlechte Note eingestellt und überlegte mir während der Prüfung schon, wann ich für die nächste Zeit habe. Zu meiner Überraschung habe ich eine 1,0 bekommen - auch wenn es keine "1.0 mit Sternchen" war. Dragon war klar, dass die Prüfung recht anspruchsvoll war und fand, dass ich mich gut geschlagen habe. Ich konnte zeigen, dass ich ein Grundverständnis vom Thema hatte und überzeugender als andere mit 1,3 war. Insofern ich mit der Einstellung in die Prüfung gegangen bin, dass ich alle Fragen der vorigen Protokolle solide beantworten könne und nicht weiß, was ich mir nochmal anschauen müsste, würde ich die Note schon als angemessen bezeichnen.
+
+Tipps:
+
+Auch wenn sich die Diplomprüfungen genauso wie die Prüfungen im Bachelor auf das ganze Skript beziehen, sind die Bachelorprüfungen deutlich harmloser. Beschränkt auch auf die Prüfungsprotokolle zu den Bachelorprüfungen. Ich empfehle das Skript mehrfach durchzuarbeiten. Beim ersten mal lest es komplett und überfliegt Teile (Transformationen, Translation, Impuls..), die ihr nicht vollständig versteht. Nach dem ersten lesen sind die ersten Kapitel deutlich leichter. Der Schwerpunkt liegt klar auf den Kapiteln 1-4 und 6. Zum Prüfungsstoff gehört aber noch das 5. Kapitel. Arbeitet das Skript mehrfach durch. Das abgefragte Wissen bezieht sich eigentlich ausschließlich auf das Skript. Auch Beispiele in Randbemerkungen werden gerne abgefragt ("wo ist das denn der Fall?"). Macht euch keinen Stress mit der Prüfung. Die Prüfung ist letzlich simpler als das Skript vermuten lässt. Es ist nicht schlimm, wenn ihr keine Ahnung von einzelnen Themen habt (Energiebänder), ihr braucht im wesentlichen ein Grundverständnis um Dragon bei seinen Argumentationen folgen zu können. Dazu gehören insbesondere Fragen in die Richtung: Was bedeutet es, wenn ein Operator hermitisch ist. Der Erwartungswert des Kommutators hermitischer Operatoren im EZ zu einem der Operatoren ist Null. All das findet ihr im Skript. Merkt es euch und vollzieht es nach. Lernt nicht nur die Formeln auswendig, sondern vollzieht die Rechnungen nach. Wichtig ist auch die Frage, wie Operatoren auf Zustände wirken, was heißt zum Beispiel X Psi oder P Psi für eine Gaußfunktion.
+
+Literatur:
+
+Dragons Skript (achtet darauf die neuste Version zu haben!). Vereinbart ihr einen Prüfungstermin bei Dragon direkt, gibt er euch das Skript. Das Skript reicht als Wissensquelle vollständig aus (mehr als das was in der neusten Version steht, wird vermutlich auch nicht bzgl. des Wasserstoffatoms gefragt). Lernt intensiv die Kapitel 1-4,6 (ohne Energiebänder, Transformationen und ggf. starre Körper). Habt ihr keine bis wenig Ahnung von Quantenmechanik, kann das Skript schnell überfordern. Insbesondere die Frage, was eigentlich ein Ket ist und wo der Zusammenhang zum Bra ist (Spaltenvektor, Zeilenvektor, komplex konjugiert und transponiert) kommt ein wenig zu kurz. Ich habe dazu entsprechende Kapitel im Tannoudji gelesen. Die ersten Kapitel von Grundlagenbüchern zu lesen kann nicht schaden, um in das Thema reinzukommen.
+
+Abschlussbemerkung:
+
+Note:
+
+1

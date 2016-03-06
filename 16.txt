@@ -1,0 +1,57 @@
+Dragon
+
+Modul:
+
+Theoretische Physik (Diplom)
+
+Jahr:
+
+2010
+
+Lehrveranstaltung1:
+
+Theoretische Physik II: Quantentheorie I
+
+Lehrveranstaltung2:
+
+Theoretische Physik III: Statistische Physik
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Während der Prüfung bin ich fast verzweifelt, weil ich dachte, ich hätte mich gut vorbereitet, aber auf seine Fragen fast nie direkt eine Antwort wusste. Deshalb hat mich die Note dann ziemlich überrascht, obwohl ich mit ungefähr dieser Erwartung in die Prüfung gegangen war.
+
+Themen:
+
+Harmonischer Oszillator Wasserstoffatom Gemische, Dichtematrix Zeitentwicklung der Dichtematrix Entropie, Entropie von zusammengesetzten Dichtematrizen Boltzmann-Verteilung, Zustandssumme (als Funktion von [TeX]\beta[/TeX])
+
+Gestellte Fragen:
+
+Standartfragen:
+
+Drehimpuls- und Heisenbergalgebra Aufsteiger/Absteiger im Harmonischen Oszillator Egal, was man sich von Dragon erzählt: Vorfaktoren wissen! Quantenzahlen im Wasserstoffatom, welche Werte können n,l,m annehmen? Herleitung der Dichtematrix Entropie von [TeX]\lambda\rho_1 + (1-\lambda)\rho_2[/TeX]
+
+Unerwartete Fragen:
+
+Auf welche Weise kann die Entropie in einem ganz normalen quantenmechanischen System ansteigen? (Streuung an Atomen im nicht perfekten Vakuum) Wenn sich nach der von-Neumann-Gleichung die Entropie nicht ändert, wie kann es dann sein, dass sie das in einem statistischen System doch tut?
+
+Atmosphäre:
+
+Die Atmosphäre war gut, Dragon fragt viel und unerwartetes. Manchmal ist nicht ganz klar, was er hören möchte. Der Beisitzer hat nichts gesagt.
+
+Tipps:
+
+Man sollte die Grundlagen sehr gut beherrschen. Dragon stellt zu einfachen Sachen ziemlich verwirrende Fragen. Auf die Frage hin, welchen Stoff er prüft, meinte er, es gibt da so ein Skript... ;) Bei mir hat er nach dem Inhalt der Kapitel 1-4 und 6 gefragt.
+
+Literatur:
+
+Dragons Skript „Anmerkungen zur Quantenmechanik“ http://www.itp.uni-hannover.de/~dragon/
+
+Abschlussbemerkung:
+
+Note:
+
+1.3

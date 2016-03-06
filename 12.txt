@@ -1,0 +1,59 @@
+Dragon
+
+Modul:
+
+Theoretische Physik (Diplom)
+
+Jahr:
+
+2008
+
+Lehrveranstaltung1:
+
+Theoretische Physik II: Quantentheorie I
+
+Lehrveranstaltung2:
+
+Theo IV
+
+Lehrveranstaltung3:
+
+Lehrveranstaltung4:
+
+Bemerkung:
+
+Hab mich leider ziemlich dadurch verunsichern lassen, dass ich oft nicht wusste, was er nun wollte und so Fehler gemacht. Sowohl er als auch der Beisitzer meinten ich soll wieder kommen, weil ich es eigentlich besser kann.
+
+Themen:
+
+H-Atom Zerfälle Periodische Potentiale
+
+Gestellte Fragen:
+
+H-Atom: - Separierung der Variablen - Lösung der Eigenwertgleichung - Wie funktioniert die Drehimpulsalgebra - Erwartungswerte von Operatoren - Unschärfe Zerfälle: - Diskrete Linie? Nein, Resonanzen - Lorentzresonanz, Goldene Regel - Warum unphysikalisch? Maximum bei t=0, Integral divergiert -> kein Energieerwartungswert Periodische Potentiale: - Block-Theorem - Separation der Periodizität - Erste Brilliouin-Zone zeichnen
+
+Standartfragen:
+
+Alles was in seinem Script steht + Fragen zum Verständnis der Physik
+
+Unerwartete Fragen:
+
+Eigentlich keine...
+
+Atmosphäre:
+
+Sehr locker, Dragon ist nett und ruhig
+
+Tipps:
+
+Script lesen, alles was zum Verständnis hilft. Seine Fragen sind manchmal nicht leicht zu durchblicken, man hat ständig das Problem, dass man nicht weiss was er will, aber eigentlich ist es einfach.
+
+Literatur:
+
+Sein Script! Zur Herleitung des H-Atoms reichen die 3 Seiten im Gerthsen. Bänderschema im Kittel, o.ä.
+
+Abschlussbemerkung:
+
+Note:
+
+1.7
